@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoJo.Business", "FoJo.Business\FoJo.Business.csproj", "{76026C73-22A4-4754-BFFD-B25DB3533C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoJo.API", "FoJo.API\FoJo.API.csproj", "{776F17B4-12F5-4168-8C33-E75DF16CA30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76026C73-22A4-4754-BFFD-B25DB3533C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76026C73-22A4-4754-BFFD-B25DB3533C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76026C73-22A4-4754-BFFD-B25DB3533C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76026C73-22A4-4754-BFFD-B25DB3533C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776F17B4-12F5-4168-8C33-E75DF16CA30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776F17B4-12F5-4168-8C33-E75DF16CA30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776F17B4-12F5-4168-8C33-E75DF16CA30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776F17B4-12F5-4168-8C33-E75DF16CA30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECBDED7-1854-4998-9F19-0A7F85EA3359}
+	EndGlobalSection
+EndGlobal
